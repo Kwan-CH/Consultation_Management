@@ -68,6 +68,7 @@ public class User {
             repo.addUser(new String[]{"L" + lecturerCode, NameInput.strip(), emailInput.strip(), encoded});
 
         } else {
+            System.out.println("False");
             return false;
         }
         return true;
