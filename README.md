@@ -13,7 +13,7 @@ This system also allows both of the user to provide their feedback for their app
 
 API's that have been integrated is the JCalendar for a direct and simple way to allow the lecturer to set the available time slot, this can help to avoid any point of human error, another API used is table-custom for a modern design of each JTable used in the system, this is only to replace the original design provided by javax.swing for a better look
 
-* In order for the API to work, you need to configure the project structure to import the API's .exe file into the project before you start running the code
+* In order for the API to work, you need to configure the project structure to import the API's .jar file into the project before you start running the code
 
 **Development Environment**
 Utilise the drag and drop UI element feature in Apache NetBeans for a faster UI development, and IntelliJ IDEA for the backend logic. The reason of using two platforms is by the limitation in Apache Netbeans that does not allow developer to edit the auto-generated code during the drag and drop UI element phase.
