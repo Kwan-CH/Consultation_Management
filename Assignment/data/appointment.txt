@@ -1,0 +1,30 @@
+A1,20-12-2024,09:00,10:00,Stress management, feeling overwhelmed with exams,S2,L4,Pending,-,-
+A2,23-12-2024,11:00,12:00,Social anxiety,S4,L3,Approved,-,-,-
+A3,25-12-2024,10:00,11:30,Exam preparation,S1,L2,Decline,-,Lecturer unavailable,-
+A4,27-12-2024,14:00,15:00,Anger management,S3,L1,Pending,-,-,Need to reschedule due to class conflict.
+A5,29-12-2024,12:00,13:00,Time management issues,S1,L4,Cancel,-,-,-
+A6,31-12-2024,09:00,10:00,Grief counseling,S2,L1,Pending,-,-,Student requested a new time.
+A7,2-1-2025,13:00,14:00,Stress and anxiety,S3,L2,Approved,-,-,-
+A8,4-1-2025,10:00,12:00,Improving relationships,S4,L3,Decline,-,Lecturer assigned to another task,-
+A9,6-1-2025,11:00,12:00,Career advice,S1,L4,Decline,-,Sudden meeting,Conflicting schedule with exams.
+A10,8-1-2025,15:00,16:00,Exam anxiety,S2,L3,Approved,-,-,-
+A11,10-1-2025,08:00,09:00,Study habits,S4,L2,Pending,-,-,Requested due to overlapping appointments.
+A12,12-1-2025,09:00,10:00,Building confidence,S3,L1,Decline,-,Lecturer unavailable due to meeting,-
+A13,14-1-2025,14:00,15:00,-,-,L4,Available,-,-,-
+A14,16-1-2025,12:00,13:00,Balancing work and study,S2,L2,Pending,-,-,Student asked to adjust the time.
+A15,18-1-2025,10:00,11:00,Stress and anger management,S4,L3,Decline,-,no reason,-
+A16,20-1-2025,09:00,10:00,Social skills development,S3,L1,Decline,-,Lecturer handling other tasks,-
+A17,24-1-2025,11:00,12:00,Academic guidance,S2,L2,Approved,-,-,-
+A18,26-1-2025,08:00,09:00,Time management,S4,L3,Approved,-,-,Student requested another slot.
+A19,28-1-2025,14:00,15:00,Improving focus,S3,L2,Approved,-,-,-
+A20,30-1-2025,09:00,10:00,,-,L2,Available,-,-,-
+A21,1-2-2025,10:30,12:00,,-,L3,Available,-,-,-
+A22,3-2-2025,11:00,12:30,Overcoming procrastination,S1,L4,Complete,Good Session,-,Clashes with exam time
+A23,5-2-2025,14:00,15:00,,-,L1,Available,-,-,-
+A24,7-2-2025,08:00,09:00,,-,L3,Available,-,-,-
+A25,9-2-2025,12:00,13:00,,-,L2,Available,-,-,-
+A26,11-2-2025,09:00,10:00,,-,L4,Available,-,-,-
+A27,13-2-2025,10:00,11:00,,-,L1,Available,-,-,-
+A28,15-2-2025,14:30,16:00,,-,L3,Available,-,-,-
+A29,17-2-2025,08:00,09:00,,-,L2,Available,-,-,-
+A30,20-12-2024,08:00,09:00,-,-,L4,Available,-,-,-
